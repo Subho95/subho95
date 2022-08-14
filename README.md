@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Start of the art ML algorithms and new-gen edge technologies.**
+- 🌱 I’m currently learning **State of the art ML algorithms and new-gen cutting edge technologies.**
 
 - 👯 I’m passionate about **Deep Learning, NLP, Computer Vision, and Software development.**
 
